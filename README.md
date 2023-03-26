@@ -11,7 +11,7 @@
 |RD|Eliminar un directorio|
 |REN|Cambiar el nombre de uno o mas archivos|
 ### Comandos alias.
-|ALIAS|DESCRICIO    |
+|ALIAS|DESCRIPCION   |
 |-----------|--------|
 |s='git status'| Guardar cambios y cerrar los archivos|
-|d='git diff'| Establece diferentias en los origenes de datos de git|
+|d='git diff'| Establece diferencias en los origenes de datos de git|
