@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**afgiraldo02/afgiraldo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# HOLA SOY ANDRES FELIPE GIRALDO
+## Actualmente soy coordinador de ventas telefonicas 
+* Me he destacado por ser una persona responsable, respetuosa, honesta y cumplidora con las labores que se me asignan, colaborador y ágil para realizar cualquier tipo de tarea se me facilita aprender y realizó mi trabajo con dedicación; además me gusta adquirir nuevos conocimientos buscando alternativas que sean mucho más eficaces para mi buen desempeño.
+* Mi tiempo libre lo uso para compartir con mi familia y estudiar el curso bootcamp dictado por **Guillermo Rodas** el cual me ha gustado muchopor la manera en que explica los temas y la metodologia que usa.
+### Lista de comandos.
+|COMANDO | DESCR    |
+|---------------|-------------------|
+|CLS| Limapia la ventan de la cosnsola
+|FC|Comparar archiovs|
+|VER|Muestra la version de windows|
+|RD|Eliminar un directorio|
+|REN|Cambiar el nombre de uno o mas archivos|
+### Comandos alias.
+|ALIAS|DESCRICIO    |
+|-----------|--------|
+|s='git status'| Guardar cambios y cerrar los archivos|
+|d='git diff'| Establece diferentias en los origenes de datos de git|
